@@ -1,2 +1,2 @@
 # Practice-Projects
-Small projects from here and there to learn the basics.
+Small python projects from here and there to learn and demonstrate basic programming concepts.
